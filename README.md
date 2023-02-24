@@ -1,3 +1,3 @@
-## Inter Task: Hello World in Django
+## Intern Task: Hello World in Django
 
-![hello world in django](/Task.jpeg)
+!["Hello World" in Django](Task.png)
